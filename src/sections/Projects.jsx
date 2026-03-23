@@ -101,7 +101,7 @@ export default function Projects() {
             </p>
 
             <p className="text-sm text-gray-500">
-              Tech: Python, SQL, OpenAI API, Pandas, Scikit-learn
+              Tech: Python, SQL, OpenAI API, Pandas, Scikit-learn, NumPy, Hugging Face Transformers, Hugging Face Datasets, PyTorch
             </p>
 
             <div className="flex gap-4">
