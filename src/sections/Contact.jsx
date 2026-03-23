@@ -27,7 +27,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="text-blue-400 hover:underline"
           >
-            github.com/yourusername
+            github
           </a>
         </p>
 
@@ -40,7 +40,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="text-blue-400 hover:underline"
           >
-            linkedin.com/in/yourprofile
+            linkedin
           </a>
         </p>
 
