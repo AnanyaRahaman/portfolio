@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Card({ title, desc }) {
   return (
     <div className="bg-gray-800 p-6 rounded-xl">
