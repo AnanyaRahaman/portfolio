@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Navbar() {
   return (
     <nav className="fixed top-0 w-full bg-gray-900 text-white p-4 flex justify-center gap-6 z-50">
