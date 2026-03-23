@@ -10,7 +10,7 @@ export default function Hero() {
     >
 
       <motion.img
-        src="/profile.jpg"
+        src="/IMG_0945.jpg"
         className="w-40 h-40 rounded-full mx-auto mb-6 object-cover"
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
@@ -23,10 +23,10 @@ export default function Hero() {
       </p>
 
       <div className="mt-6 flex justify-center gap-4">
-        <a href="/resume.pdf" className="bg-blue-500 px-6 py-2 rounded">
+        <a href="/Ananya_Rahaman_SE.pdf" className="bg-blue-500 px-6 py-2 rounded">
           Resume
         </a>
-        <a href="/thesis.pdf" className="border px-6 py-2 rounded">
+        <a href="/Do_LLMs_Really_Understand_SQL.pdf" className="border px-6 py-2 rounded">
           Thesis
         </a>
       </div>
