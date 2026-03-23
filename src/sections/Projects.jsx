@@ -1,3 +1,4 @@
+import React from 'react';
 import Section from "../components/Section";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
